@@ -1,0 +1,7 @@
+C:\Users\Peetamber Khatri\Desktop\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Peetamber Khatri\Desktop\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Peetamber Khatri\Desktop\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Peetamber Khatri\Desktop\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\Peetamber Khatri\Desktop\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Peetamber Khatri\Desktop\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Peetamber Khatri\Desktop\TestApp\TestApp\obj\Debug\TestApp.pdb
